@@ -30,11 +30,9 @@ Odin 是基于墨云科技多年积累的安全验证经验，专为企业持续
 ## 🖥️ 支持平台
 
 - Windows 10/11 AMD64/ARM64
-- Windows Server 2012/2016
 - MacOS 10.13+ AMD64
 - MacOS 11.0+ ARM64
 - Linux AMD64/ARM64
-- Linux Server AMD64/ARM64
 
 ## 🗨️ 社区交流与支持
 
