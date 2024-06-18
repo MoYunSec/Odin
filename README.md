@@ -3,7 +3,9 @@
 Odin 是基于墨云科技多年积累的安全验证经验，专为企业持续安全运营而设计的轻量化安全验证工具。它提供全方位安全策略有效性验证，帮助企业迅速发现并修补安全弱点。
 
 🏠[项目地址](https://github.com/MoYunSec/Odin)
+
 ⬇️[GitHub下载地址](https://github.com/MoYunSec/Odin/releases)
+
 📚️[使用教程](https://moyunsec.github.io/Odin)
 
 ## 📜 使用须知
